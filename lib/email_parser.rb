@@ -13,3 +13,4 @@ class EmailAddressParser
     @email_address_array = @email_addresses.split(/[\s,]/)
   end
 end
+
