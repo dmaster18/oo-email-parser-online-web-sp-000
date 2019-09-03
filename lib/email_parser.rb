@@ -16,7 +16,7 @@ class EmailAddressParser
     i = 0 
     @comparative_array = []
     while i < @email_address_array.length
-      
+      if 
   end
 end
 
