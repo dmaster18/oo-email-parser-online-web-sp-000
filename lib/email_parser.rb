@@ -17,4 +17,5 @@ class EmailAddressParser
   end
 end
 
-email_addresses = "john@doe.com, person@somewhere.org,, , dman@gmail.com
+email_addresses = "john@doe.com, person@somewhere.org,, , dman@gmail.com"
+
