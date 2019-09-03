@@ -14,4 +14,4 @@ class EmailAddressParser
   end
 end
 
-email
+email_addresses = "john@doe.com, person@somewhere.org"
