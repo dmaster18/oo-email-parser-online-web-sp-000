@@ -17,6 +17,7 @@ class EmailAddressParser
     @comparative_array = []
     while i < @email_address_array.length
       @comparative_array.push(@email_address_array[i]) if @comparative_array.include?(@email_address_array) == false
+      i+=1
   end
 end
 
