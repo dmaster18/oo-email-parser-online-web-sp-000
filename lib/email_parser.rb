@@ -14,6 +14,7 @@ class EmailAddressParser
     @email_address_array.delete("")
     @email_address_array.delete(" ")
     @email_address_array
+    
   end
 end
 
