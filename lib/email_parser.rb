@@ -20,3 +20,4 @@ end
 email_addresses = "john@doe.com, person@somewhere.org,, , dman@gmail.com"
 parser = EmailAddressParser.new(email_addresses)
 parser.parse
+puts parser.
