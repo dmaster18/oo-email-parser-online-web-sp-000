@@ -13,6 +13,7 @@ class EmailAddressParser
     @email_address_array = @email_addresses.split(/[\s,]/)
     @email_address_array.delete("")
     @email_address_array.delete(" ")
+    i = 0 
     @email_address_array.map{|email_address|
   end
 end
