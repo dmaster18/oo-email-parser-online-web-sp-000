@@ -21,6 +21,7 @@ class EmailAddressParser
       @comparative_array
     end
     @email_address_array = @comparative_array
+    @email_address_array
   end
 end
 
