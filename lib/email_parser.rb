@@ -15,6 +15,7 @@ class EmailAddressParser
     @email_address_array.delete(" ")
     i = 0 
     while i < @email_address_array.length
+      
   end
 end
 
